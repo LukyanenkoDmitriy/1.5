@@ -1,4 +1,3 @@
-// Получаем ссылки на кнопки и элементы списка
 let btnShow = document.querySelector('.btn-show');
 let btnHide = document.querySelector('.btn-hide');
 const listItemsMg = document.querySelectorAll('.brands__item:nth-last-child(-n+5)');
